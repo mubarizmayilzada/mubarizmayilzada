@@ -1,10 +1,23 @@
- <h3>Hi there 👋</h3>
-<h2>
-  I am Mubariz Mayilzada of Azerbaijani origin, programming and technology content creator!</h2><br>
-<div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mubarizmayilzada&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubarizmayilzada&layout=compact&langs_count=16&theme=tokyonight"/>
-</div> 
+## 🚀 Hi there 👋
+
+My name is **Mubariz Mayilzada**, an Azerbaijani  origin self-taught programmer and technology enthusiast. 
+I am a content creator and enjoy sharing my knowledge and experience with others through blog posts, articles, and video tutorials. My goal is to help others learn and grow in their programming journey.
+
+I am also actively contribute to open-source projects on GitHub by:
+- 🐛 Reporting bugs
+- 📝 Submitting pull requests
+- 💡 Suggesting new features
+
+I am available for freelance work or remote contract opportunities and open to mentoring and coaching junior developers. If you have any project that you think I can help with or if you are just starting out on your programming journey and need some guidance, feel free to contact me.
+
+You can reach me via:
+- 📧 Email: mubarizmayilzada@gmail.com
+- 🐦 Telegram: [@mubarizmayilzada](https://t.me/thesaintmarz)
+- 🔗 LinkedIn: [linkedin.com/in/mubarizmayilzada](https://www.linkedin.com/in/mubariz-mayilzada/)
+
+### Thank you for visiting my GitHub profile, I hope you found it informative and interesting. Let's connect! 🤝
+
+
 
 <div style="display:inline_block"><br>
   <img align="center" alt="Marz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
